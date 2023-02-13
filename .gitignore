@@ -398,7 +398,7 @@ Prep/textrank/
 # added on 20th Dec.
 *.cfg
 *.yaml
-*.csv
+#*.csv
 *.sql
 *.ttf
 
