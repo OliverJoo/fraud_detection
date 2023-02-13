@@ -3,7 +3,6 @@
  * Package structure
    * ├── DataSet
    * ├── oliver_util_package
-   * │ ├── excel
    * │ ├── log
    * ├── FraudSkeleton.py
    * └── README.md
